@@ -67,9 +67,11 @@ imageOperators : [
 };
 
 # Library Dependencies
+prose - 
 numpy - numerical processing library 
 pandas - ?
 matplotlib.pyplot - plotting library 
 skimage - 
 scipy - Scientific processing library, contains Image.io tools. 
 watchdog  - folder watchdog library 
+pyyaml - https://pypi.org/project/watchdog/
